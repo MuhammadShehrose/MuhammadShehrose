@@ -1,51 +1,30 @@
-# Hi, I'm Muhammad Shehrose 👋
+# Muhammad Shehrose
 
-Full-Stack Web Developer with 4+ years of experience building scalable web applications, REST APIs, admin panels, and e-commerce solutions.
+Full-Stack Web Developer | Laravel Specialist | API & System Architecture
 
-## 🚀 About Me
+Building scalable web applications and business solutions with over 4 years of professional development experience.
 
-- 💼 Full-Stack Developer
-- ⚙️ Specialized in Laravel, PHP, MySQL, Vue.js, JavaScript, and REST APIs
-- 🏗️ Experienced in multi-role systems, e-commerce platforms, and SaaS applications
-- ☁️ Familiar with AWS, DigitalOcean, Firebase, and Cloudflare
-- 📚 Continuously learning modern technologies and best practices
+### Core Expertise
 
-## 🛠 Tech Stack
+- Laravel & PHP Development
+- REST API Architecture
+- MySQL Database Design
+- JavaScript & jQuery
+- Authentication & Authorization Systems
+- E-commerce Solutions
+- Cloud Deployment & Server Management
 
-**Backend**
-- Laravel
-- PHP
-- MySQL
-- REST APIs
-- CodeIgniter
+### Tech Stack
 
-**Frontend**
-- Vue.js
-- JavaScript
-- TypeScript
-- jQuery
-- HTML5
-- CSS3
-- Bootstrap
+Laravel • PHP • JavaScript • MySQL • Firebase • Git
 
-**Tools & Cloud**
-- Git
-- GitHub
-- AWS
-- DigitalOcean
-- Firebase
-- Cloudflare
-- Figma
+### Current Focus
 
-## 📈 Experience Highlights
+- Advanced Laravel Architecture
+- Scalable SaaS Platforms
+- AI-Powered Web Applications
 
-- 4+ years of professional web development experience
-- Developed and maintained large-scale Laravel applications
-- Designed secure and scalable RESTful APIs
-- Built role-based admin panels and business management systems
-- Worked on e-commerce and multi-tenant platforms
+### Contact
 
-## 📫 Connect
-
-- Email: shah.rose.714@gmail.com
-- LinkedIn: linkedin.com/in/muhammad-shehrose
+📧 shah.rose.714@gmail.com  
+🔗 LinkedIn: linkedin.com/in/muhammad-shehrose
